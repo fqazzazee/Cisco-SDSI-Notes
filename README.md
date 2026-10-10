@@ -7,6 +7,7 @@
 [![Blog](https://img.shields.io/badge/📖%20Blog-Read%20the%20Write--up-FF6C37)](https://blog.safeqbit.com/a-walk-through-cisco-sdsi-and-where-network-security-is-headed-in-2026/)
 [![License](https://img.shields.io/badge/License-CC%20BY--4.0-lightgrey)](#-license)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](#-contributing)
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/fqazzazee)
 
 > 📚 Personal study guide and condensed summary notes for the **Cisco Certified Specialist – Designing Cisco Security Infrastructure (SDSI)** certification, based on the official [Cisco U. learning path](https://u.cisco.com/paths/designing-cisco-security-infrastructure-20534).
 >
@@ -179,6 +180,8 @@ Cisco trademarks and any referenced official materials remain the property of Ci
 <div align="center">
 
 ⭐ **If these notes help your SDSI prep, consider starring the repo!** ⭐
+
+☕ If they helped you pass, you can [buy me a coffee](https://buymeacoffee.com/fqazzazee).
 
 Made with ☕ and 🛡️ while studying for **CCNP Security**
 
